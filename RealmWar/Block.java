@@ -1,5 +1,6 @@
 package RealmWar;
 
-//valed ame block haye naqshe
+
+// valed hame block haye naqshe
 public abstract class Block {
 }
